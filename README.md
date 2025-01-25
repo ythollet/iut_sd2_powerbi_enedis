@@ -1,5 +1,4 @@
-# iut_sd2_powerbi_enedis
-## Organisation du Repository
+# Organisation du Repository
 
 - Le dossier Documentation contient :
   - La documentation technique

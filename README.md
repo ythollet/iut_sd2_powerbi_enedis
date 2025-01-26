@@ -16,3 +16,5 @@
 - Vidéo Youtube : https://youtu.be/3JPFiPZ91Xs
 
 - La maquette qui se nomme Maquette_Projet_Enedis
+
+- Le version publiée du rapport : https://app.powerbi.com/links/5YwDLaYjfb?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare

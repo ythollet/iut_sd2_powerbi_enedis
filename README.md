@@ -15,6 +15,6 @@
 
 - Vidéo Youtube : https://youtu.be/3JPFiPZ91Xs
 
-- La maquette qui se nomme Maquette_Projet_Enedis
+- La maquette qui se nomme Maquette_Projet_Enedis ou sur le lien suivant : https://www.canva.com/design/DAGcJzI_6IE/QT9Hig4x3eadSsnXaxdyjg/edit?utm_content=DAGcJzI_6IE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 - Le version publiée du rapport : https://app.powerbi.com/links/5YwDLaYjfb?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare

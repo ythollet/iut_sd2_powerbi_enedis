@@ -12,3 +12,5 @@
 
 
 - Le Rapport Power BI qui se nomme SAE reporting.pbix
+
+- Vidéo Youtube : https://youtu.be/3JPFiPZ91Xs
